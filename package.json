@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.8",
     "chart.js": "^4.4.2",
+    "firebase": "^10.11.0",
     "html-react-parser": "^5.1.9",
     "i": "^0.3.7",
     "npm": "^10.5.0",
